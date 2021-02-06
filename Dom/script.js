@@ -29,4 +29,4 @@ console.log(document.querySelector('.ativo'))
 // Retorna a linguagem do navegador
 console.log(window.navigator.language)
 // Retorne a largura da janela
-console.log(window.window.innerWidth)
+console.log(window.window.innerWidth);
